@@ -16,12 +16,7 @@
 
 ### Viajo o mundo explorando novos lugares e conhecendo novas culturas, dos grandes centros aos lugares mais inóspitos da terra.
 
-<img src="/img-sl.JPG" width="200" height="150"> | <img src="/img-mt.JPG" width="200" height="150"> | <img src="/img-nv.JPG" width="200" height="150">
+<img src="/img-sl.JPG" width="250" height="200" hspace="5">  <img src="/img-mt.jpg" width="250" height="200" hspace="5">  <img src="/img-nv.jpg" width="250" height="200">
 
 <br/>
 
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/Leandro556?label=follow&style=social)](LINK-DO-SEU-GITHUB)
