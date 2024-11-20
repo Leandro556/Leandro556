@@ -2,7 +2,10 @@
 
 ## 💼 Sócio Propietário da empresa [Double Cobranças](https://doublecobrancas.com/).
   ![](https://media.licdn.com/dms/image/v2/D5616AQF-Ox9NtLdgZg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690566029085?e=2147483647&v=beta&t=_8JRieQEh0QJJTmDqsazq4EILaYR0iZVgUEUWU8mEIk)
-  
+
+## 💼 Sócio Propietário da Casa de Apostas [Double Bet](https://doublebets.com.br/).
+![](https://doublebets.com.br/_next/image?url=%2Flogo.png&w=256&q=75)
+
 ### 👨🏻‍💻 Explorando novas tecnologias.
 ### 🎓 Estudando Ciências da Computação na Universidade do Oeste de Santa Catarina.
 
