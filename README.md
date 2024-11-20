@@ -1,9 +1,10 @@
 ## Sobre mim
 
+- 💼 Sócio Propietário da empresa Double Cobranças.
+  ![Double](https://doublecobrancas.com/)
 - 👨🏻‍💻 Explorando novas tecnologias.
 - 🎓 Estudando Ciências da Computação na Universidade do Oeste de Santa Catarina.
-- 💼 Sócio Propietário da empresa Double Cobranças.
-  
+
 ## Minhas Skills
 
 **Aplicações e dados**
