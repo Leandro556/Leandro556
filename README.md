@@ -16,7 +16,7 @@
 
 ### Viajo o mundo explorando novos lugares e conhecendo novas culturas, dos grandes centros aos lugares mais inóspitos da terra.
 
-<img src="/img-mt.jpg" width="250" height="200" hspace="5">  <img src="/img-sl.JPG" width="250" height="200" hspace="10">  <img src="/img-nv.jpg" width="250" height="200">
+<img src="/img-mt.jpg" width="250" height="200">  <img src="/img-sl.JPG" width="250" height="200">  <img src="/img-nv.jpg" width="250" height="200">
 
 <br/>
 
