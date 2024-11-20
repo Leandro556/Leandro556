@@ -1,32 +1,22 @@
-# Sobre mim
+# Sobre mim 👋
 
-## 💼 Sócio Propietário da empresa [Double Cobranças](https://doublecobrancas.com/).
+### 💼 Sócio Propietário da empresa [Double Cobranças](https://doublecobrancas.com/).
   ![](https://media.licdn.com/dms/image/v2/D5616AQF-Ox9NtLdgZg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690566029085?e=2147483647&v=beta&t=_8JRieQEh0QJJTmDqsazq4EILaYR0iZVgUEUWU8mEIk)
 
-## 💼 Sócio Propietário da Casa de Apostas [Double Bet](https://doublebets.com.br/).
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+### 💼 Sócio Propietário da casa de apostas [Double Bet](https://doublebets.com.br/).
 ![](https://doublebets.com.br/_next/image?url=%2Flogo.png&w=256&q=75)
 
-### 👨🏻‍💻 Explorando novas tecnologias.
 ### 🎓 Estudando Ciências da Computação na Universidade do Oeste de Santa Catarina.
 
-## Minhas Skills
+<br/><br/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+# Meus hobbies 🛩️ 🗺️
 
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+### Viajo o mundo explorando novos lugares e conhecendo novas culturas, dos grandes centros aos lugares mais inóspitos da terra.
 
 <br/>
-
-<a href="https://github.com/Leandro556" title="Perfil do Leandro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
