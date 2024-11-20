@@ -10,7 +10,7 @@
 
 ### 🎓 Estudando Ciências da Computação na Universidade do Oeste de Santa Catarina.
 
-<br/><br/>
+<br/><br/><br/>
 
 # Meus hobbies 🛩️ 🗺️
 
