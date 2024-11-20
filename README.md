@@ -1,6 +1,6 @@
 # Sobre mim
 
-## ** 💼 Sócio Propietário da empresa [Double Cobranças](https://doublecobrancas.com/).**
+## 💼 Sócio Propietário da empresa [Double Cobranças](https://doublecobrancas.com/).
   ![](https://media.licdn.com/dms/image/v2/D5616AQF-Ox9NtLdgZg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1690566029085?e=2147483647&v=beta&t=_8JRieQEh0QJJTmDqsazq4EILaYR0iZVgUEUWU8mEIk)
 - 👨🏻‍💻 Explorando novas tecnologias.
 - 🎓 Estudando Ciências da Computação na Universidade do Oeste de Santa Catarina.
