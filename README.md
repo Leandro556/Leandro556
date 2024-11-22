@@ -8,6 +8,7 @@
 ### 💼 Sócio Propietário da casa de apostas [Double Bet](https://doublebets.com.br/).
 ![](https://doublebets.com.br/_next/image?url=%2Flogo.png&w=256&q=75)
 
+
 ### 🎓 Estudando Ciências da Computação na Universidade do Oeste de Santa Catarina.
 
 <br/><br/><br/>
@@ -17,6 +18,6 @@
 ### Viajo o mundo explorando novos lugares e conhecendo novas culturas, dos grandes centros aos lugares mais inóspitos da terra.
 
 <img src="/img-mt.jpg" width="250" height="200">  <img src="/img-sl.JPG" width="250" height="200">  <img src="/img-nv.jpg" width="250" height="200">
-
+#
 <br/>
 
