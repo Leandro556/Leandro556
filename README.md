@@ -15,7 +15,7 @@
 
 # Meus hobbies 🛩️ 🗺️
 
-### Viajo o mundo explorando novos lugares e conhecendo novas culturas, dos grandes centros aos lugares mais inóspitos da terra.
+### Viajo o mundo explorando novos lugares e conhecendo novas culturas, dos grandes centros aos lugares mais remotos da terra.
 
 <img src="/img-mt.jpg" width="250" height="200">  <img src="/img-sl.JPG" width="250" height="200">  <img src="/img-nv.jpg" width="250" height="200">
 #
